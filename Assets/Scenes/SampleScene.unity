@@ -734,9 +734,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _loopType: 2
-  _rotationX: 166
-  _rotationY: 99
-  _rotationZ: 360
+  _rotation: {x: 12, y: 360, z: 199}
   _duration: 3
   _repeat: -1
 --- !u!1 &992992944
@@ -955,9 +953,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _loopType: 2
-  _rotationX: 0
-  _rotationY: 360
-  _rotationZ: 0
+  _rotation: {x: 0, y: 0, z: 0}
   _duration: 1
   _repeat: -1
 --- !u!114 &1043051234
